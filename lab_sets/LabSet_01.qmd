@@ -1,6 +1,6 @@
 ---
 title: "Lab Set 1"
-author: "My Name"
+author: "Ketura Elie"
 date: last-modified
 format:
   pdf:
@@ -25,7 +25,7 @@ If you were working on this project, what would you suggest the team do next? In
 
 Discuss with a couple of your neighbors and write your response in a short paragraph.
 
-> Your response:
+> Your response: Reliability can be increase with cross-validation (this would also improve generalizability)
 
 ### Task 2
 
@@ -33,7 +33,7 @@ Answer the the following question:
 
 What interests you about the quantitative analysis of text?
 
-> Your response:
+> Your response: I took a data mining course that briefly covered text analysis and it made me interested in learning more about the topic. I am interested in how this sort of analysis could be applied in my social psychology research (namely how effective experimental techniques of having participants engage in writing exercises are when the participants' text is used as a unit of analysis)
 
 ## Mosteller & Wallace
 
@@ -43,7 +43,7 @@ Mosteller and Wallace talk about a "little book of decisions" -- a record of the
 
 Pick one of Mosteller and Wallace's decisions and describe how you might check whether it affecting their findings.
 
-> Your response
+> Your response: I would pick their decision of binning their variables and use some form of validation to check how it was affecting their findings.
 
 ### Task 2
 
@@ -51,7 +51,7 @@ Our model predicts all but 55 were written by Madison. Our model is not particul
 
 Give at least 3 possible factors that might explain that low probability?
 
-> Your response
+> Your response:  chosen tokens, over-training model, sample size, and threshold set for validation.
 
 ## NLP Basics
 
